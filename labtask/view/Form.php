@@ -1,10 +1,14 @@
+<?php
+include("../control/process.php");
+
+?>
 <html>
 <head>
 <title>Form </title>
 </head>
 <body>
 <h1>Registration Form </h1>
-<form action="../control/process.php"method="POST">
+<form action=""method="POST"enctype="multipart">
 <form>
 <table>
 <tr><td>First Name</td><td><input type="text" placeholder="First Name"></td></tr>
