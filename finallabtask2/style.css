@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(147, 197, 221);
+}
+
+.header{
+    background-color: rgb(100, 246, 246);
+    text-align: center;
+    padding: 20px;
+
+}
+
+.wecreat{
+    color: rgb(18, 18, 181);
+    
+}
+
+.link {
+    background-color: rgba(75, 19, 114, 0.963);
+   
+    padding: 10px;
+}
+
+a{
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+    text-decoration: none;
+} 
+.reg{
+    border-left: 15px solid teal;
+    background-color: rgb(196, 222, 244);
+}
+
+.form{
+    background-color: rgb(241, 241, 115);
+}
+
+
+.myButton {
+	box-shadow: 1px 2px 0px 0px #105290;
+	background-color:#317ac4;
+	border-radius:2px;
+	border:1px solid #0a2036;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:12px;
+    height: 20px;
+    width: 80px;
+
+	text-decoration:none;
+	
+}
