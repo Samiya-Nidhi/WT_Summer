@@ -1,0 +1,106 @@
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: hsl(194, 37%, 82%);
+  }
+
+.header1 {
+    color: black;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header2 {
+
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    background-color: rgb(241, 241, 115);
+}
+
+
+div.sticky {
+    text-align: center;
+    position: sticky;
+    top: 0;
+    
+    border-width: 50px;
+  
+  }
+
+
+div.middlecolumn {
+    
+    position: relative;
+    left: 25%;
+    float: center;
+    width: 50%;
+    
+    border-color: navy
+  }
+  
+  .registrationBox {
+  background-color: lightblue;
+  border-left: 15px solid lightseagreen;
+  padding: 2px;
+  font-size: 8px;
+   
+  }
+
+
+
+
+  .topnav {
+    overflow: hidden;
+    background-color: #31055a;
+    bottom: 30px;
+  }
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    
+  }
+  .topnav p {
+      float: right;
+      display: block;
+      color: blue;
+      text-align: left;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: rgb(221, 221, 221);
+    color: black;
+  }
+  div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+  }
+  .button{
+    text-align: center;
+    box-shadow: 1px 2px 0px 0px #105290;
+	background-color:#317ac4;
+	border-radius:2px;
+	border:1px solid #0a2036;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-size:12px;
+    height: 20px;
+    width: 80px;
+
+	text-decoration:none;
+  }
+  
