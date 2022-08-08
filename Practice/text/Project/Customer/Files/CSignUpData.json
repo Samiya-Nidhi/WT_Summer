@@ -1,0 +1,102 @@
+[
+    {
+        "Buyername": "Khurshed Alam Sifat",
+        "Email": "khurshedalamsifat@gmail.com",
+        "DOB": "2002-01-23",
+        "Gender": "Male",
+        "Phone no": "01712088228",
+        "City": "Sylhet",
+        "Address": "block b, Kadamtali",
+        "Password": "sifat2277"
+    },
+    {
+        "Fullname": "jhon",
+        "Email": "jhon@gmail.com",
+        "DOB": "2022-03-01",
+        "Gender": "Male",
+        "Phone no": "124124214",
+        "City": "Dhaka",
+        "Address": "kuratoli",
+        "Password": "12345678"
+    },
+    {
+        "Fullname": "mugdh",
+        "Email": "mugdho@gmail.com",
+        "DOB": "2022-03-23",
+        "Gender": "Male",
+        "Phone no": "1241242134234",
+        "City": "Dhaka",
+        "Address": "kuratoli",
+        "Password": "12312312214"
+    },
+    {
+        "Fullname": "odghum",
+        "Email": "abc@gmail.com",
+        "DOB": "2022-03-15",
+        "Gender": "Male",
+        "Phone no": "124214323535",
+        "City": "Sylhet",
+        "Address": "kadamtali",
+        "Password": "3242354324"
+    },
+    {
+        "Fullname": "Anik Debnath",
+        "Email": "anik.deb93@gmail.com",
+        "DOB": "1999-02-25",
+        "Gender": "Male",
+        "Phone no": "01817117104",
+        "City": "Dhaka",
+        "Address": "48 gandira , Dhaka 1229, Bangladesh",
+        "Password": "anik123"
+    },
+    {
+        "Fullname": "nondon",
+        "Email": "roy09@gmail.com",
+        "DOB": "2000-01-08",
+        "Gender": "Male",
+        "Phone no": "0324165432135",
+        "City": "Narayanganj",
+        "Address": "dhaka",
+        "Password": "123456789"
+    },
+    {
+        "Fullname": "nondon",
+        "Email": "roy09@gmail.com",
+        "DOB": "2000-01-02",
+        "Gender": "Male",
+        "Phone no": "4654335441",
+        "City": "Narayanganj",
+        "Address": "Chasara",
+        "Password": "123456789"
+    },
+    {
+        "Fullname": "nondon",
+        "Email": "shuchiroy8@gmail.com",
+        "DOB": "2001-09-18",
+        "Gender": "Male",
+        "Phone no": "01785646984",
+        "City": "Narayanganj",
+        "Address": "Chasara",
+        "Password": "12346987"
+    },
+    {
+        "Fullname": "nondon",
+        "Email": "shuchiroy8@gmail.com",
+        "DOB": "2001-09-18",
+        "Gender": "Male",
+        "Phone no": "01785646984",
+        "City": "Narayanganj",
+        "Address": "Chasara",
+        "Password": "12346987"
+    },
+    {
+        "Fullname": "Ahana Bhuiyan",
+        "Email": "bhuiyanahana@gmail.com",
+        "DOB": "2000-05-01",
+        "Gender": "Female",
+        "Phone no": "01771689301",
+        "City": "Noakhali",
+        "Address": "Chowmuhani",
+        "Password": "123456789"
+    }
+]

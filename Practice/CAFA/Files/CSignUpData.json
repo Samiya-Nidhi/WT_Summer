@@ -1,0 +1,32 @@
+[
+    {
+        "Fullname": "Suraiya Akter",
+        "Password": "123456789",
+        "Email": "suraiya@gmail.com",
+        "DOB": "2001-02-18",
+        "Gender": "Female",
+        "Phone no": "01316139656",
+        "City": "Dhaka",
+        "File": "SHEBA FINANCIAL SYSTEM -F (06)...pdf"
+    },
+    {
+        "Fullname": "Urmi Akter",
+        "Password": "987654321",
+        "Email": "urmi@gmail.com",
+        "DOB": "2000-12-12",
+        "Gender": "Female",
+        "Phone no": "01861038829",
+        "City": "Dhaka",
+        "File": "OneDrive_2022-06-18.zip"
+    },
+    {
+        "Fullname": "Sawon Mursalin",
+        "Password": "908765432",
+        "Email": "sawon@gmail.com",
+        "DOB": "1999-12-10",
+        "Gender": "Male",
+        "Phone no": "01987654345",
+        "City": "Dhaka",
+        "File": "CD-Lecture-5.pptx"
+    }
+]
