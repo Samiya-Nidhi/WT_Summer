@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700')
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(241, 13, 13);
+    font-size: 35px;
+    float: right;
+    padding-top: 10px;
+    margin-top: 5px;
+    font-style: bold;
+}
+body{
+    background: #fff;
+    font-family:'Poppins' sans-serif ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: url(1.jpg);
+    
+}
+.cover{
+    width: 900px;
+    height: 400px;
+    margin-top: 50px;
+    display:flex;
+    
+    
+
+}
+.box{
+    margin: 15px;
+    width: 800px;
+    height: 450px;
+    box-shadow: -1px 0 10px #000000;
+    align-items: center ;
+    justify-content: center;  
+    text-align: center;  
+    background-color: #fff;
+}
+.box1{
+    margin: 15px;
+    width: 800px;
+    height: 450px;
+    box-shadow: -1px 0 10px #000000;
+    align-items: center ;
+    justify-content: center;  
+    text-align: center;
+    background-color: #fff;
+}
+.box2{
+    margin: 15px;
+    width: 800px;
+    height: 450px;
+    box-shadow: -1px 0 10px #000000;
+    align-items: center ;
+    justify-content: center;  
+    text-align: center;   
+    background-color: #fff;
+}
+.box3{
+    margin: 15px;
+    width: 800px;
+    height: 4500px;
+    box-shadow: -1px 0 10px #000000;
+    align-items: center ;
+    justify-content: center;  
+    text-align: center;   
+    background-color: #fff;
+}
+
+img{
+    width: 200px;
+    height: 200ox;
+    display: flex;
+}
